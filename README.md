@@ -34,6 +34,6 @@ Introductory Statistics Course<br/>
 ## Related Products
 * [Learning IBM SPSS Statistics [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-ibm-spss-statistics-video)
 
-* [Learning IBM SPSS Statistics [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-ibm-spss-statistics-video)
+* [Basic Statistics and Data Mining for Data Science [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/basic-statistics-and-data-mining-data-science-video)
 
 * [Statistics for Data Science](https://prod.packtpub.com/in/big-data-and-business-intelligence/statistics-data-science)
