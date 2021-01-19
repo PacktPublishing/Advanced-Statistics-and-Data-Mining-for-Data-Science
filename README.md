@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/advanced-statistics-and-data-mining-for-data-science-video/9781788830348)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Advanced-Statistics-and-Data-Mining-for-Data-Science
 
 This is the code repository for [Automating Web Testing with Selenium and Python [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/advanced-statistics-and-data-mining-data-science-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
