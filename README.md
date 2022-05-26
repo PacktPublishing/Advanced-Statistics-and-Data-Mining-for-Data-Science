@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V09769?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Advanced-Statistics-and-Data-Mining-for-Data-Science
 
 This is the code repository for [Automating Web Testing with Selenium and Python [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/advanced-statistics-and-data-mining-data-science-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
