@@ -37,7 +37,3 @@ Introductory Statistics Course<br/>
 * [Basic Statistics and Data Mining for Data Science [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/basic-statistics-and-data-mining-data-science-video)
 
 * [Statistics for Data Science](https://prod.packtpub.com/in/big-data-and-business-intelligence/statistics-data-science)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788830348">https://packt.link/free-ebook/9781788830348 </a> </p>
